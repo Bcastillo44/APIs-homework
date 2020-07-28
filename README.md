@@ -37,11 +37,10 @@ Follow the steps outlined in the budget starter notebook (`account_summary.ipynb
 
     * Spending Categories Pie Chart.
 
-      ![Expenses per category](Images/spending-pie.png)
 
     * Spending Per Month Bar Chart.
 
-      ![Expenses per month](Images/spending-month.png)
+
 
 4. Use the API to fetch income data from the sandbox and print the following:
 
@@ -65,13 +64,11 @@ Create a Monte Carlo simulation for the retirement portfolio:
 
 2. Run a Monte Carlo Simulation of `500` runs and `30` years for the `60/40` portfolio and plot the results.
 
-    ![monte carlo](Images/monte-carlo.png)
 
 3. Select the ending cumulative returns from the Monte Carlo simulation and calculate the interval values for a `90`% confidence interval.
 
 4. Using the ending cumulative returns, plot a histogram of the results and plot the `90%` confidence interval as vertical lines on the histogram.
 
-    ![histogram](Images/histogram.png)
 
 #### Retirement Analysis
 
@@ -87,7 +84,6 @@ Use the Monte Carlo simulation data to answer the following questions:
 
 5. (Optional Challenge) Use the Monte Carlo data and calculate the cumulative returns at the `5%`, `50%`, and `95%` quartiles and plot this data as a line chart to see how the cumulative returns change over the life of the investment.
 
-    ![projected-returns.png](Images/projected-returns.png)
 
 ### Financial Report
 
