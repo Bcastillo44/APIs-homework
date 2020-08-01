@@ -1,29 +1,29 @@
 *******************************************************************************
 # Budget Analysis: Summarize the transaction data from the budget analysis and include images for each chart and table produced.
 *******************************************************************************
-* Calculate the total spending per category and print the results (Hint: groupby or count transactions per category)
+* Calculate the total spending per category and print the results
 
 ![Spending per category pie](images/spending_per_category_piechart.png)
 
 
 * Printing results of spending per category
 
-![Spending per category table](Images/spending_per_category_table.png)
+![Spending per category table](images/spending_per_category_table.png)
 
 
 * Generate a bar chart with the number of transactions for each category
 
-![Spending per category bar](Images/spending_per_category_bar.png)
+![Spending per category bar](images/spending_per_category_bar.png)
 
 
 * Calulate the expenses per month
 
-![Expenses per month](Images/expenses_per_month.png)
+![Expenses per month](images/expenses_per_month.png)
 
 
 * Plot the total expenses per month
 
-![Total expenses per month](Images/expenses_per_month_bar.png)
+![Total expenses per month](images/expenses_per_month_bar.png)
 
 
 ******************************************************************************
@@ -34,16 +34,16 @@
 
 * Portfolio Cumulative returns
 
-![Portfolio cumulative returns](Images/portfolio_cumulative_returns.png)
+![Portfolio cumulative returns](images/portfolio_cumulative_returns.png)
 
 
 * Ending Cumulative returns
 
-![Ending cumulative returns](Images/ending_cumulative_returns.png)
+![Ending cumulative returns](images/ending_cumulative_returns.png)
 
 * Probability distribution with confidence intervals
 
-![Probability distribution with confidence intervals](Images/probability_distribution_with_confidence_intervals.png)
+![Probability distribution with confidence intervals](images/probability_distribution_with_confidence_intervals.png)
 
 
 ### Retirement Analysis
