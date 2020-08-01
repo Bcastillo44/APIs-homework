@@ -38,9 +38,9 @@
 
 The expected cumulative returns at 30 years for the 10th, 50th, and 90th percentiles are:
 
- 'returns_10_percentile'= 117.37594573549154 
- 'returns_50_percentile' = 189.84383253943383
- 'returns_90_percentile' = 314.34736073991616
+ returns_10_percentile= 117.37594573549154 
+ returns_50_percentile = 189.84383253943383
+ returns_90_percentile = 314.34736073991616
 
 
 * Given an initial investment of $20,000, what is the expected portfolio return in dollars at the 10th, 50th, and 90th percentiles?
