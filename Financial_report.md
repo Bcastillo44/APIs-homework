@@ -3,7 +3,7 @@
 *******************************************************************************
 * Calculate the total spending per category and print the results (Hint: groupby or count transactions per category)
 
-![Spending per category pie](Images/spending_per_category_piechart.png)
+![Spending per category pie](images/spending_per_category_piechart.png)
 
 
 * Printing results of spending per category
