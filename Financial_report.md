@@ -26,15 +26,8 @@
 
 ![Portfolio cumulative returns](images/portfolio_cumulative_returns_30.png)
 
-* Portfolio Cumulative returns - 20 years
 
-![Portfolio cumulative returns](images/portfolio_cumulative_returns_30.png)
-
-* Ending Cumulative returns
-
-![Ending cumulative returns](images/ending_cumulative_returns.png)
-
-* Probability distribution with confidence intervals
+* Probability distribution with confidence intervals - 20 and 30 years
 
 ![Probability distribution with confidence intervals](images/probability_distribution_with_confidence_intervals.png)
 
