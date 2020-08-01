@@ -22,10 +22,13 @@
 
 ### Overview with charts
 
-* Portfolio Cumulative returns
+* Portfolio Cumulative returns - 30 years
 
-![Portfolio cumulative returns](images/portfolio_cumulative_returns.png)
+![Portfolio cumulative returns](images/portfolio_cumulative_returns_30.png)
 
+* Portfolio Cumulative returns - 20 years
+
+![Portfolio cumulative returns](images/portfolio_cumulative_returns_30.png)
 
 * Ending Cumulative returns
 
