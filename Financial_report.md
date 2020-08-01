@@ -6,16 +6,6 @@
 ![Spending per category pie](images/spending_per_category_piechart.png)
 
 
-* Printing results of spending per category
-
-![Spending per category table](images/spending_per_category_table.png)
-
-
-* Generate a bar chart with the number of transactions for each category
-
-![Spending per category bar](images/spending_per_category_bar.png)
-
-
 * Calulate the expenses per month
 
 ![Expenses per month](images/expenses_per_month.png)
@@ -23,7 +13,7 @@
 
 * Plot the total expenses per month
 
-![Total expenses per month](images/expenses_per_month_bar.png)
+![Total Transactions per month](images/transactions_per_month_bar.png)
 
 
 ******************************************************************************
